@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 I'm currently a Computer Science student at the University of Bucharest, Faculty of Mathematics and Computer Science.
 
 
